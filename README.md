@@ -1,3 +1,3 @@
-# task1
+# TechVerseTask
 
 A new Flutter project.
